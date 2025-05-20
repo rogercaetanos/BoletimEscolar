@@ -1,0 +1,13 @@
+BoletimEscolar
+
+Escola (nome, endereço, telefone, contato)
+Trimestre (numero,duração, ano)
+Aluno (nome, endereço, cpf, data de nascimento, telefone )
+Boletim (numero, notas, data boletim)
+Curso (nome, descrição, duração do curso )
+
+Matricula (numero, data matricula, data trancamento )
+Ano Letivo ( numero )
+
+
+com.fieb.classes
